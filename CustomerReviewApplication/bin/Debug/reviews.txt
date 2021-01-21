@@ -1,0 +1,3 @@
+Date time,Name,Phone Number,Email,Age,Feedback,Food Quality,Staff Friendliness,Cleanliness,Order Accuracy,Restaurant Ambiance,Value For Money
+21.01.2021,Sanil Shrestha,98433181990,sanil@gmail.com,18-25,dasdasdasdadadasd,1,2,3,4,4,2
+21.01.2021,Visit Poudel,98765434578,visit@gmail.com,18-25,jkkkkolmnbv,4,3,2,1,3,1
